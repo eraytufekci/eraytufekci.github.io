@@ -1,6 +1,6 @@
 # app-ads.txt — ErAI Studio (eraytufekci.github.io)
-# Idle Tok: Viral Tycoon (com.eraistudio.idletok) — Google Play
-# Güncelleme: 2026-10-06. Kaynaklar: AdMob (uygulama doğrulama ekranı), Unity LevelPlay (ironSource yayıncı 686905 + ironSource Exchange aracı listesi), Unity Ads (Organization settings > App-ads.txt)
+# Idle Tok: Influencer Tycoon (com.eraistudio.idletok) + Idle Dropshipping Tycoon (com.eraistudio.idledropshippingtycoon) — Google Play
+# Güncelleme: 2026-10-19 (Meta Audience Network). 2026-10-06: Kaynaklar: AdMob (uygulama doğrulama ekranı), Unity LevelPlay (ironSource yayıncı 686905 + ironSource Exchange aracı listesi), Unity Ads (Organization settings > App-ads.txt)
 OWNERDOMAIN=eraytufekci.github.io
 
 # Google AdMob
@@ -8,6 +8,9 @@ google.com, pub-9909316483228251, DIRECT, f08c47fec0942fa0
 
 # Unity LevelPlay / ironSource Ads
 ironsrc.com, 686905, DIRECT
+
+# Meta Audience Network (LevelPlay Bidding; Business ID — işletmenin tüm mülkleri; biçim: developers.facebook.com/docs/audience-network/optimization/best-practices/authorized-sellers-app-ads)
+facebook.com, 253778221953379, RESELLER, c3e20eee3f780d68
 
 # Unity Ads (Unity Monetization dashboard listesi)
 adwmg.com, 159512, RESELLER, c9688a22012618e7
